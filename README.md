@@ -1,2 +1,2 @@
 # Newsletter-Signup
-Newsletter signup using Node.js and deployng on Heroku cloud server
+Newsletter signup using Node.js and deploying on Heroku cloud server
