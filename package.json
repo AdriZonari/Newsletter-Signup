@@ -1,0 +1,18 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "newsletter signup page with integration to mailchimp, using their Api ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriana Zonari",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0"
+  }
+}
